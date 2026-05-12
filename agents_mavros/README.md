@@ -3,7 +3,8 @@
 1) Make sure the parameters are properly set on Pixhawk:
 Connect Pixhawk to PC via USB, open QGC, Vehicle configuration and parameters:
 SYS_HITL=1, MAV_1_CONFIG=102, MAV_1_MODE=2, SER_TEL2_BAUD=921600
-Reboot, reboot then disconnect and close QGC
+
+Reboot the Pixhawk, then disconnect and close QGC.
 
 2) Pi connected to TELEM2 of Pixhawk
 - GND - GND
