@@ -1,0 +1,1 @@
+Repository for experiments involving PX4 autopilot in a Holybro Pixhawk 2.4.8 connected to a Raspberry Pi 5 (16GB RAM) via TELEM2 port integrating Jason BDI agents communicating via MAVLink or MAVROS.
