@@ -1,3 +1,5 @@
+## Guide to run MAVROS (ROS 2 Humble) with HIL via Docker container:
+
 1) Make sure the parameters are properly set on Pixhawk:
 Connect Pixhawk to PC via USB, open QGC, Vehicle configuration and parameters:
 SYS_HITL=1, MAV_1_CONFIG=102, MAV_1_MODE=2, SER_TEL2_BAUD=921600
